@@ -1,5 +1,3 @@
-setwd("D:/OneDrive/Documents/Great Learnings/Machine Learning/ML_GroupAssignment")
-getwd()
 Cars<-read.csv("Cars.csv")
 str(Cars)
 #First of all we will split the data as between train & test. will treat test as unseen data
